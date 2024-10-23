@@ -1,4 +1,3 @@
-```markdown
 # ASCII Art Generator
 
 A Go-based tool for converting plain text into ASCII art using standard banner file with a specific graphical template representation.
