@@ -30,7 +30,7 @@ A Go-based tool for converting plain text into ASCII art using standard banner f
    go run ascii-art 'Your text here'
    ```
 
-5. Run the tests (only works with build application):
+5. Run the tests (only works with built application):
    ```
    go test
    ```
