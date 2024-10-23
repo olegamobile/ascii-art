@@ -25,7 +25,7 @@ A Go-based tool for converting plain text into ASCII art using standard banner f
    ascii-art 'Your text here'
    ```
 
-4. Running the without building:
+4. Running the program without building:
    ```
    go run ascii-art 'Your text here'
    ```
